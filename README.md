@@ -4,6 +4,8 @@ Java interface for some simple file operations with Google Drive. It was made fo
 to Google Photos.
 
 ## Release notes
+* Version 1.1.0 - 2016-05-01
+  * Added AsyncGoogleDriveImageUploadService
 * Version 1.0.0 - 2016-03-22
   * First release
 
@@ -20,7 +22,7 @@ to Google Photos.
     <dependency>
         <groupId>se.marell.google-drive</groupId>
         <artifactId>google-drive</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </dependency>
 ```
 
